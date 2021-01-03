@@ -1217,7 +1217,7 @@ h6 {
 #footer {
   padding: 0 0 30px 0;
   font-size: 14px;
-  background: #fff;
+  background: rgb(0, 0, 0);
 }
 
 #footer .footer-top {
@@ -1252,7 +1252,7 @@ h6 {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #dc1b1b;
+  background: #8f49ff;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1265,7 +1265,7 @@ h6 {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #c00a0a;
+  background: #8f49ff;
   color: #fff;
 }
 
@@ -1301,7 +1301,7 @@ h6 {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #dc1b1b;
+  color: #8f49ff;
 }
 
 #footer .footer-top .footer-contact {
@@ -1324,8 +1324,8 @@ h6 {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"] {
-  background: #dc1b1b;
-  border: 1px solid #dc1b1b;
+  background: #8f49ff;
+  border: 1px solid #8f49ff;
   width: 35%;
   padding: 6px 0;
   text-align: center;
@@ -1335,7 +1335,7 @@ h6 {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"]:hover {
-  background: #c00a0a;
+  background:#8f49ff;
 }
 
 #footer .footer-top .form .form-group {
@@ -1344,7 +1344,7 @@ h6 {
 
 #footer .footer-top .form #sendmessage {
   color: #fff;
-  background: #dc1b1b;
+  background: #8f49ff;
   display: none;
   text-align: center;
   padding: 15px;
@@ -1355,7 +1355,7 @@ h6 {
 #footer .footer-top .form #errormessage {
   color: #fff;
   display: none;
-  background: red;
+  background: #8f49ff;
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -1369,7 +1369,7 @@ h6 {
 }
 
 #footer .footer-top .form .validation {
-  color: red;
+  color: #8f49ff;
   display: none;
   margin: 0 0 20px;
   font-weight: 400;
@@ -1410,7 +1410,7 @@ h6 {
 }
 
 #footer .footer-top .form button[type="submit"] {
-  background: #dc1b1b;
+  background: #8f49ff;
   border: 0;
   border-radius: 3px;
   padding: 8px 30px;
@@ -1419,7 +1419,7 @@ h6 {
 }
 
 #footer .footer-top .form button[type="submit"]:hover {
-  background: #c00a0a;
+  background: #8f49ff;
   cursor: pointer;
 }
 
@@ -1438,13 +1438,12 @@ h6 {
 }
 
 #footer .credits a {
-  color: #dc1b1b;
+  color: #8f49ff;
 }
 
 #footer .credits a:hover {
-  color: #c00a0a;
+  color: #8f49ff;
 }
-
 /*--------------------------------------------------------------
 # Responsive Media Queries
 --------------------------------------------------------------*/
